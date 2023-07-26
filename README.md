@@ -1,6 +1,7 @@
 To satisfy the below criteria, I made the following changes to the html and css:
 
 - Added a descriptive title.
+- Added a favicon to the browser tab.
 - Changed the <div> elements into <header>, <section>, and <footer> elements.
 - Modified the "header" "h1" "h2" and "footer" classes in css into elements in the styles.css page.
 - Added alt tags for the images and icons.
